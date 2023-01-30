@@ -8,3 +8,18 @@
 .logo{
     width: 310px;
 }
+.booleaner{
+    color: aqua;
+}
+
+.title{
+    font-size: 40px;
+}
+
+.writer{
+    color: grey;
+}
+
+.description{
+    font-size: 12px;
+}
